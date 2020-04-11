@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+#counter{
+	text-align: center;
+	font-size: 40px;
+}
+
+button{
+	width: 200px;
+	height: 50px;
+}
